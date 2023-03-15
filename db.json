@@ -8,16 +8,6 @@
             "placaCarro": "PPP1234",
             "retirada": "Concluida",
         },
-        {
-            "id": 3,
-            "titulo": "Entendendo o ES7/ES8",
-            "url": "https://www.codeprestige.com.br/cursos/es7-8"
-        },
-        {
-            "id": 4,
-            "titulo": "React 16 Definitivo",
-            "url": "https://www.udemy.com/react-16/"
-        }
     ],
     "alunos": [
         {
