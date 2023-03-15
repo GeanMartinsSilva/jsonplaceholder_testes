@@ -29,6 +29,35 @@
             "dataDevolucao": null,
             "avaria": "Sem Avaria",
             "limpeza": "Limpo"
+        },{
+            "contrato": "37JVBCLZMR",
+            "placaCarro": "PPP1234",
+            "retirada": "Concluida",
+            "dataRetirada": "2023-02-28T14:07:33.55",
+            "devolucao": "Pendente",
+            "dataDevolucao": null,
+            "avaria": "Sem Avaria",
+            "limpeza": "Limpo"
+        },
+        {
+            "contrato": "FRGA030303",
+            "placaCarro": "FFF0000",
+            "retirada": "Concluida",
+            "dataRetirada": "2023-03-03T12:07:40.187",
+            "devolucao": "Pendente",
+            "dataDevolucao": null,
+            "avaria": "Sem Avaria",
+            "limpeza": "Limpo"
+        },
+        {
+            "contrato": "AAAA000000",
+            "placaCarro": "AAA0000",
+            "retirada": "Concluida",
+            "dataRetirada": "2023-03-03T12:09:10.27",
+            "devolucao": "Pendente",
+            "dataDevolucao": null,
+            "avaria": "Sem Avaria",
+            "limpeza": "Limpo"
         },
         {
             "contrato": "FRGA000000",
