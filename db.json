@@ -1,205 +1,54 @@
 {
-    "items": [
+    "cursos": [
         {
-            "contrato": "37JVBCLZMR",
-            "placaCarro": "PPP1234",
-            "retirada": "Concluida",
-            "dataRetirada": "2023-02-28T14:07:33.55",
-            "devolucao": "Pendente",
-            "dataDevolucao": null,
-            "avaria": "Sem Avaria",
-            "limpeza": "Limpo"
+            "id": 1,
+            "titulo": "Entendendo o ES6",
+            "url": "https://www.codeprestige.com.br/cursos/es6"
         },
         {
-            "contrato": "FRGA030303",
-            "placaCarro": "FFF0000",
-            "retirada": "Concluida",
-            "dataRetirada": "2023-03-03T12:07:40.187",
-            "devolucao": "Pendente",
-            "dataDevolucao": null,
-            "avaria": "Sem Avaria",
-            "limpeza": "Limpo"
+            "id": 2,
+            "titulo": "Produtividade Máxima com o VS Code",
+            "url": "https://www.udemy.com/truques-vscode/"
         },
         {
-            "contrato": "AAAA000000",
-            "placaCarro": "AAA0000",
-            "retirada": "Concluida",
-            "dataRetirada": "2023-03-03T12:09:10.27",
-            "devolucao": "Pendente",
-            "dataDevolucao": null,
-            "avaria": "Sem Avaria",
-            "limpeza": "Limpo"
+            "id": 3,
+            "titulo": "Entendendo o ES7/ES8",
+            "url": "https://www.codeprestige.com.br/cursos/es7-8"
         },
         {
-            "contrato": "FRGA000000",
-            "placaCarro": "AAAA000",
-            "retirada": "Concluida",
-            "dataRetirada": "2023-03-06T10:42:55.98",
-            "devolucao": "Pendente",
-            "dataDevolucao": null,
-            "avaria": "Sem Avaria",
-            "limpeza": "Limpo"
-        },
-        {
-            "contrato": "FRGA030301",
-            "placaCarro": "FFF0000",
-            "retirada": "Concluida",
-            "dataRetirada": "2023-03-06T11:08:44",
-            "devolucao": "Pendente",
-            "dataDevolucao": null,
-            "avaria": "Sem Avaria",
-            "limpeza": "Limpo"
-        },
-        {
-            "contrato": "FRGA030101",
-            "placaCarro": "RFT0J03",
-            "retirada": "Concluida",
-            "dataRetirada": "2023-03-06T11:10:34.6",
-            "devolucao": "Pendente",
-            "dataDevolucao": null,
-            "avaria": "Sem Avaria",
-            "limpeza": "Limpo"
-        },
-        {
-            "contrato": "FRGA010101",
-            "placaCarro": "RFT0J03",
-            "retirada": "Concluida",
-            "dataRetirada": "2023-03-06T11:13:13.577",
-            "devolucao": "Pendente",
-            "dataDevolucao": null,
-            "avaria": "Sem Avaria",
-            "limpeza": "Limpo"
-        },
-        {
-            "contrato": "FRGA010102",
-            "placaCarro": "RFT0J03",
-            "retirada": "Concluida",
-            "dataRetirada": "2023-03-06T11:15:11.7",
-            "devolucao": "Pendente",
-            "dataDevolucao": null,
-            "avaria": "Sem Avaria",
-            "limpeza": "Limpo"
-        },
-        {
-            "contrato": "FRGA010103",
-            "placaCarro": "RFT0J03",
-            "retirada": "Concluida",
-            "dataRetirada": "2023-03-06T11:16:05.5",
-            "devolucao": "Pendente",
-            "dataDevolucao": null,
-            "avaria": "Sem Avaria",
-            "limpeza": "Limpo"
-        },
-        {
-            "contrato": "FRGA010104",
-            "placaCarro": "RFT0J03",
-            "retirada": "Concluida",
-            "dataRetirada": "2023-03-06T11:17:19.677",
-            "devolucao": "Pendente",
-            "dataDevolucao": null,
-            "avaria": "Sem Avaria",
-            "limpeza": "Limpo"
-        },
-        {
-            "contrato": "FRGA010105",
-            "placaCarro": "RFT0J03",
-            "retirada": "Concluida",
-            "dataRetirada": "2023-03-06T11:19:06.417",
-            "devolucao": "Pendente",
-            "dataDevolucao": null,
-            "avaria": "Sem Avaria",
-            "limpeza": "Limpo"
-        },
-        {
-            "contrato": "FRGA010106",
-            "placaCarro": "RFT0J03",
-            "retirada": "Concluida",
-            "dataRetirada": "2023-03-06T11:19:27.777",
-            "devolucao": "Pendente",
-            "dataDevolucao": null,
-            "avaria": "Sem Avaria",
-            "limpeza": "Limpo"
-        },
-        {
-            "contrato": "FRGA010107",
-            "placaCarro": "RFT0J03",
-            "retirada": "Concluida",
-            "dataRetirada": "2023-03-06T11:25:42.1",
-            "devolucao": "Pendente",
-            "dataDevolucao": null,
-            "avaria": "Sem Avaria",
-            "limpeza": "Limpo"
-        },
-        {
-            "contrato": "FRGA010108",
-            "placaCarro": "RFT0J03",
-            "retirada": "Concluida",
-            "dataRetirada": "2023-03-06T11:26:39.18",
-            "devolucao": "Pendente",
-            "dataDevolucao": null,
-            "avaria": "Sem Avaria",
-            "limpeza": "Limpo"
-        },
-        {
-            "contrato": "FRGA010109",
-            "placaCarro": "RFT0J03",
-            "retirada": "Concluida",
-            "dataRetirada": "2023-03-06T11:39:58.54",
-            "devolucao": "Pendente",
-            "dataDevolucao": null,
-            "avaria": "Sem Avaria",
-            "limpeza": "Limpo"
-        },
-        {
-            "contrato": "FRGA010110",
-            "placaCarro": "RFT0J03",
-            "retirada": "Concluida",
-            "dataRetirada": "2023-03-06T14:47:30.4",
-            "devolucao": "Pendente",
-            "dataDevolucao": null,
-            "avaria": "Sem Avaria",
-            "limpeza": "Limpo"
-        },
-        {
-            "contrato": "FRGA010112",
-            "placaCarro": "RFT0J03",
-            "retirada": "Concluida",
-            "dataRetirada": "2023-03-06T14:50:49.933",
-            "devolucao": "Pendente",
-            "dataDevolucao": null,
-            "avaria": "Sem Avaria",
-            "limpeza": "Limpo"
-        },
-        {
-            "contrato": "FRGA010113",
-            "placaCarro": "RFT0J03",
-            "retirada": "Concluida",
-            "dataRetirada": "2023-03-06T15:22:25.34",
-            "devolucao": "Pendente",
-            "dataDevolucao": null,
-            "avaria": "Sem Avaria",
-            "limpeza": "Limpo"
-        },
-        {
-            "contrato": "FRGA010114",
-            "placaCarro": "RFT0J03",
-            "retirada": "Concluida",
-            "dataRetirada": "2023-03-06T15:36:25.577",
-            "devolucao": "Pendente",
-            "dataDevolucao": null,
-            "avaria": "Sem Avaria",
-            "limpeza": "Limpo"
-        },
-        {
-            "contrato": "FRGA010115",
-            "placaCarro": "RFT0J03",
-            "retirada": "Concluida",
-            "dataRetirada": "2023-03-06T16:19:01.923",
-            "devolucao": "Pendente",
-            "dataDevolucao": null,
-            "avaria": "Sem Avaria",
-            "limpeza": "Limpo"
+            "id": 4,
+            "titulo": "React 16 Definitivo",
+            "url": "https://www.udemy.com/react-16/"
         }
     ],
-    "totalCount": 49
+    "alunos": [
+        {
+            "id": 1,
+            "nome": "Marcela da Silva",
+            "curso": 1
+        },
+        {
+            "id": 2,
+            "nome": "José Luiz Felipe",
+            "curso": 2
+        },
+        {
+            "id": 3,
+            "nome": "Paulo Rogério",
+            "curso": 3
+        },
+        {
+            "id": 4,
+            "nome": "Felipe da Cunha",
+            "curso": 1
+        },
+        {
+            "id": 5,
+            "nome": "Luiza Cardoso Pereira",
+            "curso": 1
+        }
+    ],
+    "empresa": {
+        "nome": "Code Prestige"
+    }
 }
