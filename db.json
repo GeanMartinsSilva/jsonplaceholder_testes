@@ -1,16 +1,6 @@
 {
     "items": [
         {
-            "contrato": "37JVBCLZMR",
-            "placaCarro": "PPP1234",
-            "retirada": "Concluida",
-            "dataRetirada": "2023-02-28T14:07:33.55",
-            "devolucao": "Pendente",
-            "dataDevolucao": "null",
-            "avaria": "Sem Avaria",
-            "limpeza": "Limpo",
-        },
-        {
             "id": 2,
             "titulo": "Produtividade Máxima com o VS Code",
             "url": "https://www.udemy.com/truques-vscode/"
